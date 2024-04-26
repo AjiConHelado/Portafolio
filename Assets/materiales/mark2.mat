@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1886233266695644061
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mark2
+  m_Shader: {fileID: -6465566751694194690, guid: ff442aa040d6a6e4d9db44b41ce2c2e2,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_37AAFE25:
+        m_Texture: {fileID: 2800000, guid: 1492d4a3489a11d4689b43cfdab9e44d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B66AF0E1:
+        m_Texture: {fileID: 2800000, guid: af6edb118dd22dd46a1b40051d021c97, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_2E11270D: 0.11
+    - Vector1_39D35881: 0.854
+    - Vector1_3B48FD24: -0.28
+    - Vector1_5AE4170F: 0.15
+    - Vector1_80CAEB23: 0.1
+    - Vector1_8E5091B8: 0.04
+    - Vector1_981A3A67: 0.892
+    - Vector1_C1C7D298: 0.223
+    - Vector1_ECB3F2B8: 0.518
+    - _QueueControl: 1
+    - _QueueOffset: 15
+    m_Colors:
+    - Color_27D4D743: {r: 0.17429687, g: 0.6928757, b: 0.9056604, a: 1}
+    - Color_51A4B6EC: {r: 0.019971479, g: 0.60396266, b: 0.62264144, a: 0.23921569}
+    - Color_C347D0B: {r: 0.0096831415, g: 0.037886344, b: 0.3018867, a: 0.49803922}
+  m_BuildTextureStacks: []
