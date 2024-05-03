@@ -11,7 +11,7 @@ public class camera_orientation : MonoBehaviour
     public Rigidbody rb;
     public float rotationspd;
     // Start is called before the first frame update
-    void start()
+    void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
