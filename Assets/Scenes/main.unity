@@ -5319,7 +5319,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: PT_Pine_Tree_03_green
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 4742473837712756890, guid: c2dcabc4d03cc9b4098225e59529d20d,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 4742473837712756890, guid: c2dcabc4d03cc9b4098225e59529d20d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: c2dcabc4d03cc9b4098225e59529d20d, type: 3}
 --- !u!1 &1778638034
 GameObject:
